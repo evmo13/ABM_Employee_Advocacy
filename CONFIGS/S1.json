@@ -1,0 +1,11 @@
+{
+  "mean_contents_per_tick": 2.0,
+  "csma_level": 0.7,
+  "compliance_threshold": 0.9,
+  "employee_cooldown": 0,
+  "peer_pressure_alpha": 0.7,
+  "A7_AGE_SIM": 0.15,
+  "AGE_GAP": 10,
+  "P_AGE_OUT": 0.9,
+  "INCENTIVE_LEVEL": 0.6
+}

@@ -1,0 +1,7 @@
+{
+  "DEFAULT_KAPPA": {
+    "internal":     {"internal": 0.9, "professional": 0.7, "personal": 0.7},
+    "professional": {"internal": 0.7, "professional": 0.9, "personal": 0.7},
+    "personal":     {"internal": 0.7, "professional": 0.7, "personal": 0.9}
+  }
+}
